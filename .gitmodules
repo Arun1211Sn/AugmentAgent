@@ -7,3 +7,6 @@
 [submodule "augment.vim"]
 	path = augment.vim
 	url = https://github.com/Arun1211Sn/augment.vim.git
+[submodule "miniton-server"]
+	path = miniton-server
+	url = https://github.com/Arun1211Sn/miniton-server.git
