@@ -1,0 +1,9 @@
+[submodule "Augment-vscode"]
+	path = Augment-vscode
+	url = https://github.com/Arun1211Sn/Augment-vscode.git
+[submodule "augment-swebench-agent"]
+	path = augment-swebench-agent
+	url = https://github.com/Arun1211Sn/augment-swebench-agent.git
+[submodule "augment.vim"]
+	path = augment.vim
+	url = https://github.com/Arun1211Sn/augment.vim.git
